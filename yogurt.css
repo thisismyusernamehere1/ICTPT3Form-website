@@ -1,0 +1,20 @@
+body{
+background-image: url('Delight Yogurt.jpg');
+background-size: cover;
+}
+
+.form2{
+
+background-image: url('SprinklesIMG.jpg');
+border-radius:10px;
+position: absolute;
+height: auto;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+padding: 5px;
+}
+
+label{
+font-size: 1.5em;
+}
